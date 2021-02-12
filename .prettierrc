@@ -1,0 +1,6 @@
+{
+    "tabWidth": 4,
+    "arrowParens": "always",
+    "trailingComma": "es5",
+    "useTabs": false
+}
